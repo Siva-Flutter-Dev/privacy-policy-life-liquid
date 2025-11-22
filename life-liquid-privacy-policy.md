@@ -1,91 +1,110 @@
 Privacy Policy
 
-This privacy policy applies to the Life Liquid app (hereby referred to as the "Application") for mobile devices that was created by SivaCrafft (hereby referred to as the "Service Provider") as a Free service. This service is intended for use “AS IS.”
+This Privacy Policy applies to the Life Liquid app (the "Application") created by SivaCrafft (the "Service Provider") as a free service. This service is provided for use “AS IS.”
 
 Information Collection and Use
 
-The Application collects information when you download and use it. This information may include, but is not limited to:
+The Application collects and stores only the information necessary for its core functionality.
+The information collected includes:
 
-Your device’s Internet Protocol address (e.g., IP address)
+User-entered water intake records
 
-The pages or screens of the Application that you visit, including the time and date of your visit and the time spent on those pages
+Reminder schedules set by the user
 
-The duration of your use of the Application
+Daily and weekly hydration statistics generated from the user’s entries
 
-The operating system of your mobile device
+Basic app activity information (such as time spent in the app, used only for improving the user experience)
 
-App activity data such as your daily water intake entries, hydration reminders, and statistics required to generate weekly/day-wise graphs
+All hydration-related data is stored locally on your device only.
+The Application does not collect:
 
-The Application does not gather precise information about the location of your mobile device.
+IP address
 
-The Service Provider may use the information you provide to contact you from time to time to deliver important updates, required notices, and promotional content.
+Device identifiers
 
-For a better user experience, the Application may require certain personally identifiable information (such as name or email, if provided voluntarily). The information collected will be used as described in this Privacy Policy.
+Personal information such as name, email, address
+
+Any precise or approximate location data
+
+The Service Provider does not upload, transmit, or share any hydration data to external servers.
 
 Reminder Notifications
 
-The Application uses your device’s notification system to send hydration reminders.
-These reminders operate locally on your device based on the schedule you configure.
-No reminder content or scheduling details are shared with third parties.
+The Application uses your device’s local notification system to send hydration reminders.
 
-Weekly/Day-Wise Graph Data
+All reminder schedules are stored locally on your device
 
-The Application records your water-intake entries to provide visual insights such as daily totals, weekly progress, and other hydration statistics.
-This data is stored locally on your device and/or securely on the Service Provider’s servers (if cloud sync is implemented).
-This information is not shared with third parties except as described in this policy under “Third Party Access.”
+No reminder data is transmitted or shared with third parties
 
-Third Party Access
+Notifications operate offline and do not require an internet connection
 
-Only aggregated, anonymized data may be periodically transmitted to external services to help the Service Provider improve the Application and the service.
+Hydration Records & Graph Data
 
-The Service Provider may disclose User Provided and Automatically Collected Information:
+To display daily and weekly charts, the Application records your:
 
-As required by law (e.g., to comply with a subpoena or legal process)
+Water-intake amounts
 
-When disclosure is necessary to protect rights, user safety, investigate fraud, or respond to a government request
+Time of each entry
 
-To trusted service providers who work on the Service Provider’s behalf, who do not have independent use of the disclosed information, and who comply with this Privacy Policy
+Daily and weekly totals
+
+All of this information is stored only on your device, and it is used solely to generate your hydration graphs and improve your personal tracking experience.
+
+The Application does not sync or back up your hydration data to any server.
+
+Third-Party Access
+
+The Service Provider does not share water-intake data, reminder data, or any personal information with third parties.
+
+Only non-personal, aggregated, and anonymized usage information may be used internally to improve the Application.
+The Service Provider may disclose information only in the following exceptional cases:
+
+To comply with legal obligations (e.g., a court order)
+
+To protect rights, safety, or prevent fraud
+
+To trusted service providers who support the Application and comply with this Privacy Policy (none of whom receive hydration data)
 
 Opt-Out Rights
 
-You can stop all collection of information by the Application simply by uninstalling it.
-Use your device’s standard uninstall process or uninstall through the mobile app marketplace.
+You can stop all data collection simply by uninstalling the Application.
+All hydration data stored on your device will be deleted automatically during uninstallation.
 
 Data Retention Policy
 
-The Service Provider will retain User Provided Data as long as you use the Application and for a reasonable time thereafter.
+All hydration data is stored only on your device.
+The Service Provider does not store or retain any user data on external servers.
 
-If you wish to request the deletion of User Provided Data, contact the Service Provider at siva.flutter.dev@gmail.com
-. They will respond within a reasonable timeframe.
+If you contact the Service Provider to request deletion assistance, they will help you delete your locally stored data as needed.
 
-Children
+Children’s Privacy
 
-The Service Provider does not knowingly collect or solicit data from children under the age of 13.
-Children should not submit personally identifiable information through the Application or Services.
-Parents and guardians are encouraged to monitor and guide children's internet usage.
+The Service Provider does not knowingly collect information from children under the age of 13.
+Children should not submit personal or hydration-related data without parental permission.
 
-If you believe that a child under 13 has provided personal information, please contact the Service Provider so appropriate actions can be taken.
+If you believe a child under 13 has used the Application and submitted personal data, please contact the Service Provider for removal support.
 
-Users must be at least 16 years old (or have parental consent where required by local laws) to allow processing of personally identifiable data.
+Users must be at least 16 years old, or have parental consent where required by law, to use the Application.
 
 Security
 
-The Service Provider is committed to protecting the confidentiality of your information.
-Physical, electronic, and procedural safeguards are maintained to protect the information processed and stored.
+The Service Provider is committed to protecting your information.
+Since all hydration data is stored locally on your device, its security is also dependent on your device’s operating system security features.
 
-Changes
+The Application does not transmit or store any sensitive data externally.
 
-This Privacy Policy may be updated periodically.
-Any changes will be posted on this page. You are advised to review this Privacy Policy regularly, as continued use of the Application indicates your acceptance of any modifications.
+Changes to This Privacy Policy
 
-This privacy policy is effective as of 2025-11-22.
+This Privacy Policy may be updated from time to time. The Service Provider will update this page when changes are made.
+Continued use of the Application indicates your acceptance of the updated Privacy Policy.
+
+Effective Date: 2025-11-22
 
 Your Consent
 
-By using the Application, you consent to the collection and processing of your information as outlined in this Privacy Policy now and as amended in the future.
+By using the Application, you agree to the collection and use of information as described in this Privacy Policy.
 
 Contact Us
 
-If you have questions about this Privacy Policy or data practices, please contact:
-
+If you have any questions about this Privacy Policy or the Application’s data practices, please contact:
 📧 siva.flutter.dev@gmail.com
